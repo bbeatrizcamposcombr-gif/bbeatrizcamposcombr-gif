@@ -28,11 +28,11 @@ Adicione seus contatos quando quiser, copiando o modelo abaixo:
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação na UNIP e quero construir minha carreira em desenvolvimento **front-end**, unindo design e código para criar interfaces claras, responsivas e agradáveis de usar.
+Sou estudante e quero construir minha carreira em desenvolvimento **front-end**, unindo design e código para criar interfaces claras, responsivas e agradáveis de usar.
 
 Também me interesso por **sistemas que integram Inteligência Artificial**, e busco entender como esses recursos podem melhorar a experiência de quem usa um produto digital.
 
-Fora do código, gosto de animais, de jogar League of Legends e da cultura asiática, que influencia bastante o meu olhar para design e estética.
+Fora do código, gosto de animais, Jogos e da cultura asiática, que influencia bastante o meu olhar para design e estética.
 
 <br/>
 
